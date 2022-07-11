@@ -9,13 +9,21 @@ SOFTWARE USED
 The following software are used in this project:
 
 •	Python 3.7
+
 •	splinter 0.18.1
+
 •	webdriver-manager 3.3.0
+
 •	chromedriver 103.0.5060.53
+
 •	Flask 1.1.2
+
 •	Flask-PyMongo 2.0.1
+
 •	BeautifulSoup (bs4) 3.1.9
+
 •	html5lib 1.16.0
+
 •	lxml 4.8.0
 
 UPDATING THE WEB APP
